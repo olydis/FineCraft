@@ -1,0 +1,10 @@
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Client\bin\Release\Client.exe
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Client\bin\Release\Client.pdb
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Client\bin\Release\FineCraft.dll
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Client\bin\Release\FineCraft.pdb
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Client\obj\Release\Client.MainWindow.resources
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Client\obj\Release\Client.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Client\obj\Release\Client.exe
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Client\obj\Release\Client.pdb

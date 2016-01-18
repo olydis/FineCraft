@@ -1,0 +1,18 @@
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Server\bin\x86\Release\Server.exe
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Server\bin\x86\Release\Server.pdb
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Server\bin\x86\Release\FineCraft.dll
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Server\bin\x86\Release\FineCraft.pdb
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Server\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Server\obj\x86\Release\Server.MainWindow.resources
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Server\obj\x86\Release\Server.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Server\obj\x86\Release\Server.exe
+C:\Dokumente und Einstellungen\Johannes\Eigene Dateien\Visual Studio 2008\Projects\FineCraft\Server\obj\x86\Release\Server.pdb
+C:\Users\Johannes\Documents\Visual Studio 2008\Projects\FineCraft\Server\obj\x86\Release\Server.exe
+C:\Users\Johannes\Documents\Visual Studio 2008\Projects\FineCraft\Server\obj\x86\Release\Server.pdb
+C:\Users\Johannes\Documents\Visual Studio 2008\Projects\FineCraft\Server\bin\x86\Release\Server.exe
+C:\Users\Johannes\Documents\Visual Studio 2008\Projects\FineCraft\Server\bin\x86\Release\Server.pdb
+C:\Users\Johannes\Documents\Visual Studio 2008\Projects\FineCraft\Server\bin\x86\Release\FineCraft.dll
+C:\Users\Johannes\Documents\Visual Studio 2008\Projects\FineCraft\Server\bin\x86\Release\FineCraft.pdb
+C:\Users\Johannes\Documents\Visual Studio 2008\Projects\FineCraft\Server\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Johannes\Documents\Visual Studio 2008\Projects\FineCraft\Server\obj\x86\Release\Server.MainWindow.resources
+C:\Users\Johannes\Documents\Visual Studio 2008\Projects\FineCraft\Server\obj\x86\Release\Server.csproj.GenerateResource.Cache
